@@ -6,3 +6,4 @@ Data-analysis-prediction-model-group-18: Data analysis of movies_metadata.csv an
 
 movies.csv: Information about movie title, movieId, and genre. DataFile for the data preprocessing notebook and recommendation engine.
 
+ratings.csv: Information about movieId, userID and movie ratings. DataFile for the data preprocessing notebook and recommendation engine.
